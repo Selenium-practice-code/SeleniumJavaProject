@@ -1,0 +1,1 @@
+INFO    2021-03-05 22:26:44,548 [main] com.sumit.utilities.TestProperties  - Typing in an Element :  login_XPATH
